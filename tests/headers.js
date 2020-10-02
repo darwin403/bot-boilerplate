@@ -15,7 +15,7 @@ Promise.map(
         }`,
         {
           agent: new HttpsProxyAgent(
-            "http://lum-customer-hl_58729ae5-zone-static:gksgc5xqf20t@zproxy.lum-superproxy.io:22225"
+            "http://lum-customer-hl_58ssdwer5-zone-static:gksgc5xqf20t@zproxy.lum-superproxy.io:22225"
           ),
           credentials: "omit",
           headers: {
