@@ -9,6 +9,6 @@ package-lock.json
 yarn.lock
 
 # user generated
-
+.vscode/
 dumps/
 logs/
